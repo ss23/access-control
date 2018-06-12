@@ -5,7 +5,7 @@ datatable: true
 ## An access control system reference
 
 This is a quick reference you can use to identify what access control system someone is using simply by looking at a reader.
-Keep in mind this reference is user contributed, so information may be missing in the majority of cases. If you could contribute on Github, it would be apperciated.
+Keep in mind this reference is user contributed, so information may be missing in the majority of cases. If you could contribute on GitHub, it would be appreciated.
 
 ### Readers
 
@@ -19,4 +19,4 @@ Image                                                                           
 
 ### Contributing
 
-Any contributions, especially making the frontend nicer or information on access control systems in your country, are much apperciated. Please send a pull request on Github and the website will be updated automatically when the information is merged.
+Any contributions, especially making the front-end nicer or information on access control systems in your country, are much appreciated. Please send a pull request on GitHub and the website will be updated automatically when the information is merged.
