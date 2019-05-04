@@ -21,6 +21,7 @@ Image                                                                           
 &nbsp; ![gallagher t10](assets/gallagher-t10.gif) | [Gallagher Security](https://security.gallagher.com/) <br/>[T10 - T-Series Readers](https://security.gallagher.com/products/t-series-readers) | Identical to T20 | NZ AU | Identical to T20 in most aspects except alarm functionality
 &nbsp; ![paradox R910](assets/Paradox-R910.png) | [Paradox](http://www.paradox.com/)<br/> [R910 (formerly DGP-R910)](http://www.paradox.com/Products/default.asp?CATID=7&SUBCATID=73&PRD=243) | 125 kHZ - Paradox | NZ | [Proxmark Commands for Paradox](https://github.com/Proxmark/proxmark3/wiki/commands#lf-paradox)
 &nbsp; ![cardax Prox Mifare](assets/cardex.jpg) | [Cardax (Now Gallagher)](https://security.gallagher.com/) <br>[Cardax Prox Mifare Reader](assets/Cardax - Product List April 03.pdf) | 125 kHz and 13.56 MHz | NZ | <br/> Information and high resolution product images are hard to find post the rebranding to Gallagher.
+&nbsp; ![gallagher reader](assets/gal.jpg) | [Gallagher Security](https://security.gallagher.com/) | Unknown | NZ | 
 
 <div class="datatable-end"></div>
 
