@@ -23,6 +23,8 @@ Image                                                                           
 &nbsp; ![cardax Prox Mifare](assets/cardex.jpg) | [Cardax (Now Gallagher)](https://security.gallagher.com/) <br>[Cardax Prox Mifare Reader](assets/Cardax - Product List April 03.pdf) | 125 kHz and 13.56 MHz | NZ | <br/> Information and high resolution product images are hard to find post the rebranding to Gallagher.
 &nbsp; ![gallagher reader](assets/gal.jpg) | [Gallagher Security](https://security.gallagher.com/) | Unknown | NZ | 
 &nbsp; ![GE reader](assets/GE.jpg) | GE (General Electric) | Unknown | AU | 
+&nbsp; ![unknown reader](assets/unknown1.jpg) | GE (General Electric) | Unknown | NZ | 
+&nbsp; ![unknown reader](assets/unknown2.jpg) | GE (General Electric) | Unknown | NZ | 
 
 <div class="datatable-end"></div>
 
