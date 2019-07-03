@@ -30,7 +30,7 @@ Image                                                                           
 &nbsp; ![unknown reader](assets/unknown3.jpg) | Unknown | Unknown | AU | 
 &nbsp; ![unknown reader](assets/unknown4.jpg) | Unknown | Unknown | AU | 
 &nbsp; ![unknown reader](assets/unknown5.jpg) | Unknown | Unknown | TW | 
-&nbsp; ![unknown reader](assets/unknown6.jpg) | Unknown | Unknown | TW | 
+&nbsp; ![unknown reader](assets/unknown6.jpg) | Kisi | NFC and BLE | TW | 
 &nbsp; ![unknown reader](assets/unknown7.jpg) | Unknown | Unknown | NZ | 
 &nbsp; ![unknown reader](assets/waterford.jpg) | Waterford | Unknown | NZ | 
 
