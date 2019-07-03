@@ -25,8 +25,14 @@ Image                                                                           
 &nbsp; ![gallagher t10](assets/gallagher-t10.gif) | [Gallagher Security](https://security.gallagher.com/) <br/>[T10 - T-Series Readers](https://security.gallagher.com/products/t-series-readers) | Identical to T20 | NZ AU | Identical to T20 in most aspects except alarm functionality
 &nbsp; ![paradox R910](assets/Paradox-R910.png) | [Paradox](http://www.paradox.com/)<br/> [R910 (formerly DGP-R910)](http://www.paradox.com/Products/default.asp?CATID=7&SUBCATID=73&PRD=243) | 125 kHZ - Paradox | NZ | [Proxmark Commands for Paradox](https://github.com/Proxmark/proxmark3/wiki/commands#lf-paradox)
 &nbsp; ![GE reader](assets/GE.jpg) | GE (General Electric) | Unknown | AU | 
-&nbsp; ![unknown reader](assets/unknown1.jpg) | GE (General Electric) | Unknown | NZ | 
-&nbsp; ![unknown reader](assets/unknown2.jpg) | GE (General Electric) | Unknown | NZ | 
+&nbsp; ![unknown reader](assets/unknown1.jpg) | Unknown | Unknown | NZ | 
+&nbsp; ![unknown reader](assets/unknown2.jpg) | Unknown | Unknown | NZ | 
+&nbsp; ![unknown reader](assets/unknown3.jpg) | Unknown | Unknown | AU | 
+&nbsp; ![unknown reader](assets/unknown4.jpg) | Unknown | Unknown | AU | 
+&nbsp; ![unknown reader](assets/unknown5.jpg) | Unknown | Unknown | TW | 
+&nbsp; ![unknown reader](assets/unknown6.jpg) | Unknown | Unknown | TW | 
+&nbsp; ![unknown reader](assets/unknown7.jpg) | Unknown | Unknown | NZ | 
+&nbsp; ![unknown reader](assets/waterford.jpg) | Waterford | Unknown | NZ | 
 
 <div class="datatable-end"></div>
 
