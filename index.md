@@ -33,6 +33,20 @@ Image | Details | Card Technologies | Communication Interface | Countries | Furt
 &nbsp; ![unknown reader](assets/unknown1.jpg) | GE (General Electric) | Unknown | Unknown | NZ | 
 &nbsp; ![unknown reader](assets/unknown2.jpg) | GE (General Electric) | Unknown | Unknown | NZ | 
 
+
+### Cards and Key Fobs
+Some access cards are clearly branded and marked, making them easy to identify. It is much harder to identify a HF (13.56 MHz) access card or key fob without proxmark, as they almost all look the same.
+
+Image | Details |
+----- | ------- |
+&nbsp; ![HID Prox II Card](assets/HID-Prox-II-card.jpg) | HID Prox II Card |
+&nbsp; ![HID Prox II Key Fob](assets/HID-Prox-II-dongle.jpg) | HID Prox II Key Fob |
+&nbsp; ![HID iClass Key Fob](assets/HID-iClass-dongle.jpg) | HID iClass Key Fob |
+&nbsp; ![HID Indala Key Fob](assets/HID-Indala-dongle.png) | HID Indala Key Fob |
+&nbsp; ![HID Indala Card](assets/HID-Indala-card.jpg) | HID Indala Card |
+&nbsp; ![InnerRange SIFER Card](assets/innerrange-sifer-card.jpg) | InnerRange SIFER Card |
+
+
 <div class="datatable-end"></div>
 
 ### Contributing
