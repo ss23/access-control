@@ -34,7 +34,9 @@ Image | Details | Card Technologies | Communication Interface | Countries | Furt
 &nbsp; ![unknown reader](assets/unknown2.jpg) | GE (General Electric) | Unknown | Unknown | NZ |
 &nbsp; ![Schlage MT11](assets/schlage-mt11.jpg) | [Schlage/Aptiq MT11](https://us.allegion.com/en/home/products/categories/readers/schlage-multi-technology-readers.html) | 13.56 MHz MIFARE Classic / DESFire EV1/EV2 | Wiegand | US |
 &nbsp; ![Schlage MT15](assets/schlage-mt15.jpg) | [Schlage/Aptiq MT15](https://us.allegion.com/en/home/products/categories/readers/schlage-multi-technology-readers.html) | 13.56 MHz MIFARE Classic / DESFire EV1/EV2 | Wiegand | US |
-&nbsp; ![Schlage MTK11](assets/schlage-mtk15.jpg) | GE [Schlage/Aptiq MTK15](https://us.allegion.com/en/home/products/categories/readers/schlage-multi-technology-readers.html) | 13.56 MHz MIFARE Classic / DESFire EV1/EV2 | Wiegand | US |
+&nbsp; ![Schlage MTK11](assets/schlage-mtk15.jpg) | [Schlage/Aptiq MTK15](https://us.allegion.com/en/home/products/categories/readers/schlage-multi-technology-readers.html) | 13.56 MHz MIFARE Classic / DESFire EV1/EV2 | Wiegand | US |
+&nbsp; ![Veridt Stealth Bio](assets/veridt-stealth-bio.png) | [Veridt Stealth Bio](https://veridt.com/?tpt_service=identity-and-credential-management) | 13.56 MHz PIV/CIV/TWIC <br /> Contact chip PIV/CIV/TWIC | RS-485 <br/> Wiegand | US |
+&nbsp; ![Veridt Stealth Dual](assets/veridt-stealth-dual.png) | [Veridt Stealth Dual](https://veridt.com/?tpt_service=identity-and-credential-management) | 13.56 MHz PIV/CIV/TWIC <br /> Contact chip PIV/CIV/TWIC | RS-485 <br/> Wiegand | US |
 
 
 ### Cards and Key Fobs
